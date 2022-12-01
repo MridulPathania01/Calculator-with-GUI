@@ -1,2 +1,2 @@
 # Calculator-with-GUI
-For making it will use Python 
+For making it, we will use Python 
